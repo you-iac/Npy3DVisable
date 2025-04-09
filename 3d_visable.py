@@ -1,6 +1,5 @@
 import numpy as np
 from mayavi import mlab
-from scipy.ndimage import binary_dilation, binary_erosion
 
 if __name__ == "__main__":
     s = np.load("D:/0.npy")
